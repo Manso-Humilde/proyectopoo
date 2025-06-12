@@ -5,9 +5,9 @@ public class App {
         System.out.println("Probando la clase Persona");
         
         Persona personaje = new Persona();
-        
+
         personaje.nombre = "Lucas";
-        personaje.apellidos = "López";
+        personaje.apellidos = "Morel";
         personaje.edad = 29;
 
         System.out.println(personaje.nombre + " " + personaje.apellidos + " " + personaje.edad);
